@@ -1,2 +1,2 @@
-# DeleoNotiz.github.io
+# DeleoNotiz
 spung
